@@ -1,0 +1,48 @@
+{
+  "name": "practice",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^33.0.0",
+    "@ckeditor/ckeditor5-build-decoupled-document": "^33.0.0",
+    "@ckeditor/ckeditor5-code-block": "^33.0.0",
+    "@ckeditor/ckeditor5-vue2": "^2.0.0",
+    "axios": "^0.26.1",
+    "core-js": "^3.8.3",
+    "echarts": "^5.3.1",
+    "element-ui": "^2.15.6",
+    "mavon-editor": "^2.10.4",
+    "moment": "^2.29.1",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/eslint-parser": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential"
+    ],
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "practice@0.1.0",
+  "readme": "ERROR: No README data found!"
+}
