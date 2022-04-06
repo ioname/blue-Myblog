@@ -20,8 +20,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### service文件夹是后端 其余文件夹都是前台
+
 
 
 

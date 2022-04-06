@@ -1,10 +1,10 @@
 module.exports = {
     mysql: {
         host: 'localhost',
-        user: 'root',
-        password: 'lcj1088438',
+        user: '替换名称',
+        password: '替换为自己的密码',
         port: '3306',
-        database: 'myblog',
+        database: '数据库名称',
         multipleStatements: true //提供多条语句查询
     }
 }
